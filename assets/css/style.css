@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: orange;
+    padding: 10px;
+}
+
+#buttons {
+    margin-top: 3px;
+}
+
+#buttons button {
+    margin: 0 2px;
+}
